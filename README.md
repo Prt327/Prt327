@@ -1,4 +1,24 @@
-## Hi there 👋
+# Pabara Thibbutumunuwa  
+## I am an IT student
+I look forward in acquiring the computational skills. I am currently trying to improve my knowledge in programming.  
+
+**My Higher Education**
+- ICT 
+- French
+- English  
+
+**Familiar with**  
+- HTML
+- Python
+- CSS
+- Php  
+
+**How to contact me:**  
+pabararasodini@gmail.com  
+
+    
+
+
 
 <!--
 **Prt327/Prt327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
